@@ -1,0 +1,12 @@
+# 💫 About Me:
+  Cada pessoa é como um livro aberto, repleto de páginas que contam histórias, sonhos e experiências únicas. Entre essas páginas, encontramos a jornada de Rhuan, uma jornada marcada por momentos especiais, desafios superados e aprendizados valiosos.<br>    Desde o seu nascimento, ele embarcou em uma jornada de descoberta e crescimento. De um pequeno bebê curioso a um adulto em constante evolução, ele tem trilhado um caminho cheio de surpresas e descobertas.<br>    Sua infância foi um período de inocência e aprendizado. Ele explorou o mundo ao seu redor, brincou, riu, chorou e aprendeu lições valiosas que moldaram sua visão de mundo. À medida que cresceu, ele enfrentou desafios que o ajudaram a crescer e a se fortalecer. Encarou obstáculos com coragem e determinação, aprendendo com os erros e celebrando as vitórias. Cada experiência foi um tijolo na construção do seu caráter e da sua personalidade única. No campo dos hobbies e interesses pessoais, Rhuan revela sua paixão por diversas atividades. Seja praticando esportes ou se aventurando em novas experiências, ele encontra alegria e inspiração em cada momento vivido.<br>    A sua jornada é uma prova de que a vida é uma jornada repleta de altos e baixos, de desafios e recompensas. Cada passo dado, cada escolha feita, molda o seu destino e o seu legado no mundo. Olhando para o futuro, ele carrega consigo sonhos e aspirações que o impulsionam a seguir em frente. Com determinação e fé, ele enfrentará os desafios que ainda virão, confiante de que cada obstáculo é uma oportunidade de crescimento e superação.<br>    Em resumo, a história do Rhuan é uma narrativa de coragem, perseverança e amor pela vida. Que sua jornada continue a ser iluminada pelo brilho da esperança e da felicidade, e que ele encontre sempre motivos para sorrir e celebrar a vida.
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rhuangb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rhuangb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rhuangb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rhuangb&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
